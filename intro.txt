@@ -16,3 +16,4 @@ why didn't uproad.
 6/21
 
 ・git status
+・git diff
