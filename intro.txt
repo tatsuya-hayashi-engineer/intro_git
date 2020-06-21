@@ -12,3 +12,5 @@ Gitの練習をしていきます。
 
 why didn't uproad.
 ・git rm
+
+6/21
