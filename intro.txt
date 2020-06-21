@@ -14,3 +14,5 @@ why didn't uproad.
 ・git rm
 
 6/21
+
+・git status
