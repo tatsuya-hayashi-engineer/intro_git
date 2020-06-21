@@ -9,3 +9,5 @@ Gitの練習をしていきます。
 ・git commit
 
 新たに追加します。
+
+why didn't uproad.
