@@ -19,3 +19,4 @@ why didn't uproad.
 ・git diff
 
 ・6/24
+addEventListener
